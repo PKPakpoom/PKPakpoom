@@ -7,6 +7,6 @@ Hi there! This is my GitHub home page. Here, you can find my projects and reposi
 My name is Pakpoom Khongsotthi (Pai) from Thailand. I'm just an ordinary guy with an interest in coding.
 
 
-# Favorite emoji
+# Favorite emoji 🤓
 
-My favorite is 🤓🤓🤓.
+My favorite emoji is 🤓🤓🤓.
